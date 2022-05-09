@@ -1,0 +1,59 @@
+C:\Users\Administrator\source\repos\OrderDemo\Model\bin\Debug\Model.dll
+C:\Users\Administrator\source\repos\OrderDemo\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\source\repos\OrderDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OrderDemo\Model\obj\Debug\Model.dll
+C:\Users\Administrator\source\repos\OrderDemo\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\OrderDemo\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\OrderDemo\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\OrderDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OrderDemo\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\OrderDemo\Model\obj\Debug\Model.pdb
+C:\Users\已殇\Desktop\OrderDemo\Model\bin\Debug\Model.dll
+C:\Users\已殇\Desktop\OrderDemo\Model\bin\Debug\Model.pdb
+C:\Users\已殇\Desktop\OrderDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\已殇\Desktop\OrderDemo\Model\obj\Debug\Model.dll
+C:\Users\已殇\Desktop\OrderDemo\Model\obj\Debug\Model.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\Model\bin\Debug\Model.dll
+C:\Users\Lenovo\Desktop\OrderDemo\Model\bin\Debug\Model.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\OrderDemo\Model\obj\Debug\Model.dll
+C:\Users\Lenovo\Desktop\OrderDemo\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\Model\obj\Debug\Model.pdb
+C:\Users\已殇\Desktop\OrderDemo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\OrderDemo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\Model\bin\Debug\Model.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\Model\bin\Debug\Model.pdb
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\Model\obj\Debug\Model.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\Model\obj\Debug\Model.pdb
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\Model\bin\Debug\Model.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\Model\bin\Debug\Model.pdb
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\Model\obj\Debug\Model.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\Model\obj\Debug\Model.pdb
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\OrderDemo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\ASP.NET Web\OrderDemo\Model\bin\Debug\Model.dll
+E:\ASP.NET Web\OrderDemo\Model\bin\Debug\Model.pdb
+E:\ASP.NET Web\OrderDemo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\ASP.NET Web\OrderDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\ASP.NET Web\OrderDemo\Model\obj\Debug\Model.dll
+E:\ASP.NET Web\OrderDemo\Model\obj\Debug\Model.pdb
+C:\Users\24996\Desktop\OrderDemo\Model\bin\Debug\Model.dll
+C:\Users\24996\Desktop\OrderDemo\Model\bin\Debug\Model.pdb
+C:\Users\24996\Desktop\OrderDemo\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\24996\Desktop\OrderDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\24996\Desktop\OrderDemo\Model\obj\Debug\Model.dll
+C:\Users\24996\Desktop\OrderDemo\Model\obj\Debug\Model.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\Model\bin\Debug\Model.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\Model\bin\Debug\Model.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\Model\obj\Debug\Model.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\Model\obj\Debug\Model.pdb

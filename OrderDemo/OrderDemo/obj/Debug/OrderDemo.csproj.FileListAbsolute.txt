@@ -1,0 +1,685 @@
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\OrderDemo.dll.config
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\OrderDemo.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\OrderDemo.pdb
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\csc.exe
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\csc.exe.config
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\csc.rsp
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\csi.exe
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\csi.exe.config
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\csi.rsp
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Console.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\vbc.exe
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\vbc.rsp
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\BLL.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\Model.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\BLL.pdb
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\Model.pdb
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CopyComplete
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\obj\Debug\OrderDemo.dll
+C:\Users\Administrator\source\repos\OrderDemo\OrderDemo\obj\Debug\OrderDemo.pdb
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.dll.config
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.pdb
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\BLL.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\Model.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\BLL.pdb
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\Model.pdb
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.pdb
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\OrderDemo.dll.config
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\OrderDemo.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\OrderDemo.pdb
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\BLL.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\BLL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.dll
+C:\Users\Administrator\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.pdb
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.dll.config
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.pdb
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.exe
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.exe.config
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.rsp
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.exe
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.exe.config
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.rsp
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.AppContext.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Console.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.exe
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.exe.config
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.rsp
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\BLL.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\Model.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\BLL.pdb
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\Model.pdb
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csprojAssemblyReference.cache
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CoreCompileInputs.cache
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CopyComplete
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.pdb
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\DAL.dll
+C:\Users\Administrator\Desktop\OrderDemo\OrderDemo\bin\DAL.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.dll.config
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\BLL.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\DAL.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\Model.dll
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\BLL.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\DAL.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\Model.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\OrderDemo.dll.config
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\OrderDemo.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\OrderDemo.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\BLL.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\DAL.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\BLL.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\DAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\obj\Debug\OrderDemo.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\OrderDemo\obj\Debug\OrderDemo.pdb
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\DAL.dll
+C:\Users\已殇\Desktop\OrderDemo\OrderDemo\bin\DAL.pdb
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\OrderDemo.dll.config
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\OrderDemo.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\OrderDemo.pdb
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csc.exe
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csc.exe.config
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csc.rsp
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csi.exe
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csi.exe.config
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csi.rsp
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.AppContext.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Console.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\vbc.exe
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\vbc.exe.config
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\vbc.rsp
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\BLL.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\DAL.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\Model.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\BLL.pdb
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\DAL.pdb
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\Model.pdb
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csprojAssemblyReference.cache
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CoreCompileInputs.cache
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CopyComplete
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.pdb
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\OrderDemo.dll.config
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\OrderDemo.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\OrderDemo.pdb
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\BLL.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\DAL.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\Model.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\BLL.pdb
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\DAL.pdb
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\Model.pdb
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\OrderDemo\obj\Debug\OrderDemo.pdb
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\OrderDemo.dll.config
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\OrderDemo.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\OrderDemo.pdb
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\csc.exe
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\csc.exe.config
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\csc.rsp
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\csi.exe
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\csi.exe.config
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\csi.rsp
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.AppContext.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Console.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Security.AccessControl.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Security.Claims.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.ValueTuple.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\vbc.exe
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\vbc.exe.config
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\vbc.rsp
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\BLL.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\DAL.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\Model.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\BLL.pdb
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\DAL.pdb
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\Model.pdb
+E:\ASP.NET Web\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET Web\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csprojAssemblyReference.cache
+E:\ASP.NET Web\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CoreCompileInputs.cache
+E:\ASP.NET Web\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CopyComplete
+E:\ASP.NET Web\OrderDemo\OrderDemo\obj\Debug\OrderDemo.dll
+E:\ASP.NET Web\OrderDemo\OrderDemo\obj\Debug\OrderDemo.pdb
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.dll.config
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.pdb
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.exe
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.exe.config
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.rsp
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.exe
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.exe.config
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.rsp
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.AppContext.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Console.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.exe
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.exe.config
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.rsp
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\BLL.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\DAL.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\Model.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\BLL.pdb
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\DAL.pdb
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\Model.pdb
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.AssemblyReference.cache
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CoreCompileInputs.cache
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CopyComplete
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.dll
+C:\Users\24996\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\OrderDemo.dll.config
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\OrderDemo.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\OrderDemo.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\csc.exe
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\csc.exe.config
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\csc.rsp
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\csi.exe
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\csi.exe.config
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\csi.rsp
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\vbc.exe
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\vbc.exe.config
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\vbc.rsp
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\BLL.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\DAL.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\Model.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\BLL.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\DAL.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\Model.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.AssemblyReference.cache
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CoreCompileInputs.cache
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CopyComplete
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\obj\Debug\OrderDemo.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\obj\Debug\OrderDemo.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Buffers.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Memory.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\Newtonsoft.Json.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\Newtonsoft.Json.xml
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.AppContext.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Console.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.XDocument.dll

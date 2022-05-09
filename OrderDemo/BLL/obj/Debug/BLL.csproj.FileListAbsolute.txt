@@ -1,0 +1,110 @@
+C:\Users\Administrator\source\repos\OrderDemo\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\source\repos\OrderDemo\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\source\repos\OrderDemo\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\source\repos\OrderDemo\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\source\repos\OrderDemo\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\source\repos\OrderDemo\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\source\repos\OrderDemo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\OrderDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OrderDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Administrator\source\repos\OrderDemo\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\source\repos\OrderDemo\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\OrderDemo\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\OrderDemo\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\OrderDemo\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\OrderDemo\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\OrderDemo\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\OrderDemo\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\OrderDemo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\OrderDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OrderDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\OrderDemo\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\OrderDemo\BLL\obj\Debug\BLL.pdb
+C:\Users\已殇\Desktop\OrderDemo\BLL\bin\Debug\BLL.dll
+C:\Users\已殇\Desktop\OrderDemo\BLL\bin\Debug\BLL.pdb
+C:\Users\已殇\Desktop\OrderDemo\BLL\bin\Debug\DAL.dll
+C:\Users\已殇\Desktop\OrderDemo\BLL\bin\Debug\Model.dll
+C:\Users\已殇\Desktop\OrderDemo\BLL\bin\Debug\DAL.pdb
+C:\Users\已殇\Desktop\OrderDemo\BLL\bin\Debug\Model.pdb
+C:\Users\已殇\Desktop\OrderDemo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\已殇\Desktop\OrderDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\已殇\Desktop\OrderDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\已殇\Desktop\OrderDemo\BLL\obj\Debug\BLL.dll
+C:\Users\已殇\Desktop\OrderDemo\BLL\obj\Debug\BLL.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\BLL\bin\Debug\BLL.dll
+C:\Users\Lenovo\Desktop\OrderDemo\BLL\bin\Debug\BLL.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\BLL\bin\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\OrderDemo\BLL\bin\Debug\Model.dll
+C:\Users\Lenovo\Desktop\OrderDemo\BLL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\BLL\bin\Debug\Model.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\OrderDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\OrderDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\OrderDemo\BLL\obj\Debug\BLL.dll
+C:\Users\Lenovo\Desktop\OrderDemo\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\BLL\obj\Debug\BLL.pdb
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\BLL\obj\Debug\BLL.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\BLL\obj\Debug\BLL.pdb
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\BLL\bin\Debug\BLL.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\BLL\bin\Debug\BLL.pdb
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\BLL\bin\Debug\DAL.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\BLL\bin\Debug\Model.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\BLL\bin\Debug\DAL.pdb
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\BLL\bin\Debug\Model.pdb
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\BLL\bin\Debug\BLL.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\BLL\bin\Debug\BLL.pdb
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\BLL\bin\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\BLL\bin\Debug\Model.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\BLL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\BLL\bin\Debug\Model.pdb
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\BLL\obj\Debug\BLL.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\BLL\obj\Debug\BLL.pdb
+E:\ASP.NET Web\OrderDemo\BLL\bin\Debug\BLL.dll
+E:\ASP.NET Web\OrderDemo\BLL\bin\Debug\BLL.pdb
+E:\ASP.NET Web\OrderDemo\BLL\bin\Debug\DAL.dll
+E:\ASP.NET Web\OrderDemo\BLL\bin\Debug\Model.dll
+E:\ASP.NET Web\OrderDemo\BLL\bin\Debug\DAL.pdb
+E:\ASP.NET Web\OrderDemo\BLL\bin\Debug\Model.pdb
+E:\ASP.NET Web\OrderDemo\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\ASP.NET Web\OrderDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\ASP.NET Web\OrderDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\ASP.NET Web\OrderDemo\BLL\obj\Debug\BLL.dll
+E:\ASP.NET Web\OrderDemo\BLL\obj\Debug\BLL.pdb
+C:\Users\24996\Desktop\OrderDemo\BLL\bin\Debug\BLL.dll
+C:\Users\24996\Desktop\OrderDemo\BLL\bin\Debug\BLL.pdb
+C:\Users\24996\Desktop\OrderDemo\BLL\bin\Debug\DAL.dll
+C:\Users\24996\Desktop\OrderDemo\BLL\bin\Debug\Model.dll
+C:\Users\24996\Desktop\OrderDemo\BLL\bin\Debug\DAL.pdb
+C:\Users\24996\Desktop\OrderDemo\BLL\bin\Debug\Model.pdb
+C:\Users\24996\Desktop\OrderDemo\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\24996\Desktop\OrderDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\24996\Desktop\OrderDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\24996\Desktop\OrderDemo\BLL\obj\Debug\BLL.dll
+C:\Users\24996\Desktop\OrderDemo\BLL\obj\Debug\BLL.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\BLL\bin\Debug\BLL.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\BLL\bin\Debug\BLL.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\BLL\bin\Debug\DAL.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\BLL\bin\Debug\Model.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\BLL\bin\Debug\DAL.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\BLL\bin\Debug\Model.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\BLL\obj\Debug\BLL.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\BLL\obj\Debug\BLL.pdb

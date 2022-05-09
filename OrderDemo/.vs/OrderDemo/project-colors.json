@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "692e83f4-6c35-4140-8875-bd61f723a060": {
+      "ProjectGuid": "692e83f4-6c35-4140-8875-bd61f723a060",
+      "DisplayName": "OrderDemo",
+      "ColorIndex": 0
+    },
+    "11824a59-f36a-4e55-90af-f3c5cdc251ef": {
+      "ProjectGuid": "11824a59-f36a-4e55-90af-f3c5cdc251ef",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "c1d30570-4467-4b80-8c95-cb7efadf8690": {
+      "ProjectGuid": "c1d30570-4467-4b80-8c95-cb7efadf8690",
+      "DisplayName": "BLL",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "d57b24b6-74f3-4b77-b786-e9389440987c": {
+      "ProjectGuid": "d57b24b6-74f3-4b77-b786-e9389440987c",
+      "DisplayName": "Model",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

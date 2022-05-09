@@ -1,0 +1,90 @@
+C:\Users\Administrator\source\repos\OrderDemo\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\source\repos\OrderDemo\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\source\repos\OrderDemo\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\source\repos\OrderDemo\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\source\repos\OrderDemo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\OrderDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OrderDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Administrator\source\repos\OrderDemo\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\source\repos\OrderDemo\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\OrderDemo\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\OrderDemo\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\OrderDemo\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\OrderDemo\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\OrderDemo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\OrderDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OrderDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\OrderDemo\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\OrderDemo\DAL\obj\Debug\DAL.pdb
+C:\Users\已殇\Desktop\OrderDemo\DAL\bin\Debug\DAL.dll
+C:\Users\已殇\Desktop\OrderDemo\DAL\bin\Debug\DAL.pdb
+C:\Users\已殇\Desktop\OrderDemo\DAL\bin\Debug\Model.dll
+C:\Users\已殇\Desktop\OrderDemo\DAL\bin\Debug\Model.pdb
+C:\Users\已殇\Desktop\OrderDemo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\已殇\Desktop\OrderDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\已殇\Desktop\OrderDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\已殇\Desktop\OrderDemo\DAL\obj\Debug\DAL.dll
+C:\Users\已殇\Desktop\OrderDemo\DAL\obj\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\DAL\bin\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\OrderDemo\DAL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\DAL\bin\Debug\Model.dll
+C:\Users\Lenovo\Desktop\OrderDemo\DAL\bin\Debug\Model.pdb
+C:\Users\Lenovo\Desktop\OrderDemo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\OrderDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\OrderDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\OrderDemo\DAL\obj\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\OrderDemo\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\OrderDemo\DAL\obj\Debug\DAL.pdb
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\DAL\bin\Debug\DAL.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\DAL\bin\Debug\DAL.pdb
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\DAL\bin\Debug\Model.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\DAL\bin\Debug\Model.pdb
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\DAL\obj\Debug\DAL.dll
+C:\Users\已殇\Desktop\新建文件夹\OrderDemo\DAL\obj\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\DAL\bin\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\DAL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\DAL\bin\Debug\Model.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\DAL\bin\Debug\Model.pdb
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\DAL\obj\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\新建文件夹\OrderDemo\DAL\obj\Debug\DAL.pdb
+E:\ASP.NET Web\OrderDemo\DAL\bin\Debug\DAL.dll
+E:\ASP.NET Web\OrderDemo\DAL\bin\Debug\DAL.pdb
+E:\ASP.NET Web\OrderDemo\DAL\bin\Debug\Model.dll
+E:\ASP.NET Web\OrderDemo\DAL\bin\Debug\Model.pdb
+E:\ASP.NET Web\OrderDemo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\ASP.NET Web\OrderDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\ASP.NET Web\OrderDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\ASP.NET Web\OrderDemo\DAL\obj\Debug\DAL.dll
+E:\ASP.NET Web\OrderDemo\DAL\obj\Debug\DAL.pdb
+C:\Users\24996\Desktop\OrderDemo\DAL\bin\Debug\DAL.dll
+C:\Users\24996\Desktop\OrderDemo\DAL\bin\Debug\DAL.pdb
+C:\Users\24996\Desktop\OrderDemo\DAL\bin\Debug\Model.dll
+C:\Users\24996\Desktop\OrderDemo\DAL\bin\Debug\Model.pdb
+C:\Users\24996\Desktop\OrderDemo\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\24996\Desktop\OrderDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\24996\Desktop\OrderDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\24996\Desktop\OrderDemo\DAL\obj\Debug\DAL.dll
+C:\Users\24996\Desktop\OrderDemo\DAL\obj\Debug\DAL.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\DAL\bin\Debug\DAL.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\DAL\bin\Debug\DAL.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\DAL\bin\Debug\Model.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\DAL\bin\Debug\Model.pdb
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\DAL\obj\Debug\DAL.dll
+C:\Users\24996\Desktop\8组\5、项目源码\OrderDemo\DAL\obj\Debug\DAL.pdb

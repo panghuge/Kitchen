@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ShowInfo.master.cs" Inherits="OrderDemo.后台.ShowInfo" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <style>
+        #right {
+        margin-right:200px;
+            width: 1000px;
+        }
+    </style>
+    <link href="../css/manager.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="conainer">
+            <div id="top">
+                <ul>
+                    <li class="top_left">邻家小厨后台管理系统</li>
+                    <li class="top_right">
+                        <asp:LinkButton ID="LinkButton1" runat="server">退出</asp:LinkButton></li>
+                    <li class="top_right">|</li>
+                    <li class="top_right"><a href="../前台/Index.aspx">首页</a></li>
+                </ul>
+            </div>
+
+            <div id="middle">
+                <div id="left">
+                    <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1" ForeColor="White"></asp:TreeView>
+                    <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+                </div>
+
+                <div id="right">
+                    <div id="position">
+                        您当前的位置:<asp:SiteMapPath ID="SiteMapPath1" runat="server" CssClass="nav"></asp:SiteMapPath>
+                    </div>
+                    <div id="content">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+            </div>
+            <div id="bottom">版权所有:邻家小厨</div>
+        </div>
+    </form>
+</body>
+</html>

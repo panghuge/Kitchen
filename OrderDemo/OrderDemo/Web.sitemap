@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="后台管理页面"  description="">
+    <siteMapNode url="" title="菜品管理"  description="" >
+      <siteMapNode url="~/后台/CaiPin.aspx" title="菜品查询"  description="" />
+      <siteMapNode url="~/后台/FoodADD.aspx" title="添加菜品"  description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="用户管理"  description="" >
+      <siteMapNode url="~/后台/UserInfo.aspx" title="用户查询"  description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="订单管理"  description="" >
+      <siteMapNode url="~/后台/OrderFalse.aspx" title="未支付"  description="" />
+      <siteMapNode url="~/后台/OrderTrue.aspx" title="已支付"  description="" />
+      <siteMapNode url="~/后台/OrderJie.aspx" title="已接单"  description="" />
+      <siteMapNode url="~/后台/OrderPs.aspx" title="派送中"  description="" />
+      <siteMapNode url="~/后台/OrderWc.aspx" title="已完成"  description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="系统管理"  description="" >
+      <siteMapNode url="~/后台/UserPwdUpdate.aspx" title="更新管理密码"  description="" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>
